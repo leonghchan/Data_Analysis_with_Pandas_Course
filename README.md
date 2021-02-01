@@ -1,7 +1,7 @@
 # Data_Analysis_with_Pandas_Course
 Notes and examples guided by the Udemy course "Data Analysis with Pandas and Python" by Boris Paskhaver.
 
-All csv files used throughout the course, along with the notes taken in Jupyter Notebook are uploaded in the pandas file. 
+All csv files used throughout the course, along with notes taken in Jupyter Notebook are uploaded in the pandas file. 
 
 Topics covered in this course (Sections 1 - 3 were installation instructions):
 - Section 4: DataFrames 1 - Introduction
